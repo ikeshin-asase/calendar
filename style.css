@@ -1,0 +1,18 @@
+@charset "UTF-8";
+
+table#calendar{
+	 border:2px solid black;
+	 border-collapse :collapse;
+	 width:70%;
+    text-align:center;
+}
+tr.week{
+    background-color:#d3d3d3;
+     border:2px solid black;
+     border-collapse :collapse;
+     border-bottom:double;
+}tr td{
+     border:1px solid black;
+     border-collapse :collapse;
+}
+
